@@ -1,2 +1,2 @@
 # blogger
-Blog creado en Blogger llamado Notas y cuerdas
+Blog creado en Blogger llamado "Notas y cuerdas"
